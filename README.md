@@ -9,6 +9,7 @@ Ouvre simplement `index.html` dans ton navigateur (aucune installation nécessai
 - Au premier lancement, tu choisis ton solde de départ.
 - Bouton **Portefeuille** : dépôts, retraits et historique des transactions.
 - La mise est retirée du solde à chaque pari et les gains sont crédités, comme sur un vrai site.
+- Montants affichés en euros (format français).
 - Solde, historique « Mes paris » et statistiques sont sauvegardés dans le navigateur.
 
 ## Règles
